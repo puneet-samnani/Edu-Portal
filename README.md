@@ -48,4 +48,5 @@ Credentials :
   
   Other pages are interlinked within these . 
   
+  Usage Instructions : First Import The Database School.sql having the schema and data of the database.
   -------------------------------------------------------------------------------------------------------
