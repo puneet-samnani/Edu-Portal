@@ -1,0 +1,89 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="search.aspx.cs" Inherits="SchoolWebsite.search" %>
+
+<!DOCTYPE html >
+<!-- Website for Rajasthan Government -->
+<html>
+
+<head>
+	<title>Rajasthan Edu-Portals</title>
+	<meta  charset="iso-8859-1" />
+	<link href="css/style9.css" rel="stylesheet" type="text/css" />
+	<!--[if IE 6]>
+		<link href="css/ie6.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+        <link href="css/ie7.css" rel="stylesheet" type="text/css" />  
+	<![endif]-->
+</head>
+
+<body>
+
+	  <form id="form1" runat="server">
+
+	  <div id="background">
+			  <div id="page">
+			  
+					 <div class="header">
+						<div class="footer">
+							<div class="body">
+									<div id="sidebar">
+									    <a href="index.html"><asp:Image ID="Image1" runat="server" Height="171px" Width="211px" /></a>
+										
+										
+										<ul class="navigation">
+										    <li  ><a href="Admin.aspx">HOME</a></li>
+											<li ><a href="insertrecord1.aspx">ADMISSION ENTRY</a></li>
+											<li class="active"><a href="search.aspx">SEARCH</a></li>
+                                            <li><a href="Result1.aspx">MARKS INSERT</a></li>
+                                                 <li><a href="viewallrresult.aspx">VIEW RESULT</a></li>
+											<li><a href="Announcement.aspx">NOTIFICATION</a></li>
+                                            <li class="last" ><asp:Button ID="Button3" BorderColor="Transparent" outline="none" border="none" runat="server" OnClick="Button2_Click" Text="LOGOUT" Width="197px" ForeColor="#999966" /></a></li>
+										</ul>
+										
+										<div class="footenote">
+										  <span>&copy; Copyright &copy; Rajasthan Government 2018</span>
+										</div>
+										
+									</div>
+									<div id="content">
+									            <div class="content">
+										       <ul class="article">
+													<li>
+													    &nbsp;<h2>
+                                                            <asp:TextBox ID="TextBox1" runat="server" Width="137px" placeholder="Enter Reg. ID"></asp:TextBox>
+                                                        &nbsp;&nbsp;
+                                                            <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Search" Width="70px" />
+                                                        &nbsp;
+                                                            <asp:Button ID="Button2" runat="server" OnClick="Button2_Click" Text="Search All" Width="76px" />
+                                                        </h2>
+														
+													</li>
+													
+											        <li>
+                                                        <p>
+                                                            <asp:GridView ID="GridView1" runat="server" Height="156px" Width="660px" CellPadding="3" ForeColor="Black" GridLines="Vertical" BackColor="White" BorderColor="#999999" BorderStyle="Solid" BorderWidth="1px">
+                                                                <AlternatingRowStyle BackColor="#CCCCCC" />
+                                                                <FooterStyle BackColor="#CCCCCC" />
+                                                                <HeaderStyle BackColor="Black" Font-Bold="True" ForeColor="White" />
+                                                                <PagerStyle BackColor="#999999" ForeColor="Black" HorizontalAlign="Center" />
+                                                                <SelectedRowStyle BackColor="#000099" Font-Bold="True" ForeColor="White" />
+                                                                <SortedAscendingCellStyle BackColor="#F1F1F1" />
+                                                                <SortedAscendingHeaderStyle BackColor="#808080" />
+                                                                <SortedDescendingCellStyle BackColor="#CAC9C9" />
+                                                                <SortedDescendingHeaderStyle BackColor="#383838" />
+                                                            </asp:GridView>
+                                                        </p>
+                                                    </li>
+													
+											   </ul>
+										</div>
+									</div>
+							</div>
+						</div>
+					 </div>
+			  </div>
+	  </div>
+      </form>
+	
+</body>
+</html>

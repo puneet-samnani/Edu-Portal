@@ -1,0 +1,457 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Rahul\Desktop\site</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Admin.aspx">
+      <publishTime>05/07/2015 15:38:47</publishTime>
+    </File>
+    <File Include="Attendance.aspx">
+      <publishTime>05/09/2015 02:02:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.Core.dll">
+      <publishTime>05/07/2015 04:12:57</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.SystemWeb.dll">
+      <publishTime>05/07/2015 04:12:57</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>05/07/2015 04:12:56</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>05/07/2015 04:12:57</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>05/07/2015 04:12:56</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>05/07/2015 04:12:56</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>05/07/2015 04:12:56</publishTime>
+    </File>
+    <File Include="bin/SchoolWebsite.dll">
+      <publishTime>05/12/2015 02:47:48</publishTime>
+    </File>
+    <File Include="css/ie6.css">
+      <publishTime>05/02/2015 19:26:07</publishTime>
+    </File>
+    <File Include="css/ie7.css">
+      <publishTime>05/02/2015 19:26:07</publishTime>
+    </File>
+    <File Include="css/style.css">
+      <publishTime>04/29/2015 02:01:40</publishTime>
+    </File>
+    <File Include="css/style1.css">
+      <publishTime>05/03/2015 14:07:10</publishTime>
+    </File>
+    <File Include="css/style10.css">
+      <publishTime>05/03/2015 12:19:58</publishTime>
+    </File>
+    <File Include="css/style11.css">
+      <publishTime>05/03/2015 13:38:58</publishTime>
+    </File>
+    <File Include="css/style12.css">
+      <publishTime>05/07/2015 03:52:55</publishTime>
+    </File>
+    <File Include="css/style13.css">
+      <publishTime>05/07/2015 20:13:48</publishTime>
+    </File>
+    <File Include="css/style14.css">
+      <publishTime>05/07/2015 21:21:19</publishTime>
+    </File>
+    <File Include="css/style15.css">
+      <publishTime>05/08/2015 04:19:22</publishTime>
+    </File>
+    <File Include="css/style3.css">
+      <publishTime>04/30/2015 01:13:42</publishTime>
+    </File>
+    <File Include="css/style7.css">
+      <publishTime>05/03/2015 12:05:25</publishTime>
+    </File>
+    <File Include="css/style8.css">
+      <publishTime>05/03/2015 12:03:38</publishTime>
+    </File>
+    <File Include="css/style9.css">
+      <publishTime>05/03/2015 02:50:35</publishTime>
+    </File>
+    <File Include="demo.aspx">
+      <publishTime>05/07/2015 05:19:20</publishTime>
+    </File>
+    <File Include="Faculty.aspx">
+      <publishTime>05/07/2015 21:14:41</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>05/01/2015 23:59:52</publishTime>
+    </File>
+    <File Include="Handler1.ashx">
+      <publishTime>05/01/2015 23:42:48</publishTime>
+    </File>
+    <File Include="homepage.aspx">
+      <publishTime>05/03/2015 14:20:06</publishTime>
+    </File>
+    <File Include="images/bg-body.gif">
+      <publishTime>05/02/2015 19:25:39</publishTime>
+    </File>
+    <File Include="images/bg-heading.jpg">
+      <publishTime>05/02/2015 19:25:39</publishTime>
+    </File>
+    <File Include="images/bg-inner-page.gif">
+      <publishTime>05/02/2015 19:25:39</publishTime>
+    </File>
+    <File Include="images/bg-inner-page.jpg">
+      <publishTime>05/02/2015 19:25:39</publishTime>
+    </File>
+    <File Include="images/bg-page-bottom-curve.jpg">
+      <publishTime>05/02/2015 19:25:39</publishTime>
+    </File>
+    <File Include="images/bg-page-top-curve.jpg">
+      <publishTime>05/02/2015 19:25:39</publishTime>
+    </File>
+    <File Include="images/bg-page.jpg">
+      <publishTime>05/02/2015 19:25:39</publishTime>
+    </File>
+    <File Include="images/bg-slogan.jpg">
+      <publishTime>05/02/2015 19:25:39</publishTime>
+    </File>
+    <File Include="images/bg-social-sites.jpg">
+      <publishTime>05/02/2015 19:25:39</publishTime>
+    </File>
+    <File Include="images/bg.gif">
+      <publishTime>05/01/2015 19:07:59</publishTime>
+    </File>
+    <File Include="images/BG.jpg">
+      <publishTime>04/29/2015 02:02:18</publishTime>
+    </File>
+    <File Include="images/bg1.jpg">
+      <publishTime>04/30/2015 01:09:25</publishTime>
+    </File>
+    <File Include="images/bg4.gif">
+      <publishTime>05/01/2015 19:09:01</publishTime>
+    </File>
+    <File Include="images/bg4.jpg">
+      <publishTime>05/01/2015 19:09:01</publishTime>
+    </File>
+    <File Include="images/border-dashed.gif">
+      <publishTime>05/02/2015 19:25:39</publishTime>
+    </File>
+    <File Include="images/bottom-shadow.jpg">
+      <publishTime>05/02/2015 19:25:39</publishTime>
+    </File>
+    <File Include="images/comment.gif">
+      <publishTime>05/01/2015 19:08:02</publishTime>
+    </File>
+    <File Include="images/Copy of mailicon.png">
+      <publishTime>04/29/2015 02:29:00</publishTime>
+    </File>
+    <File Include="images/cotton-flower.jpg">
+      <publishTime>05/02/2015 19:25:39</publishTime>
+    </File>
+    <File Include="images/cotton-flower2.jpg">
+      <publishTime>05/02/2015 19:25:39</publishTime>
+    </File>
+    <File Include="images/demo/120x120.gif">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="images/demo/220x95.jpg">
+      <publishTime>05/01/2015 18:12:58</publishTime>
+    </File>
+    <File Include="images/demo/80x80.gif">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="images/demo/alumuni.jpg">
+      <publishTime>05/01/2015 18:17:34</publishTime>
+    </File>
+    <File Include="images/demo/avatar.png">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="images/demo/gallery/1.png">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="images/demo/gallery/index.html">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="images/demo/index.html">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="images/demo/portfolio/1.png">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="images/demo/portfolio/index.html">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="images/demo/prospective.jpg">
+      <publishTime>05/01/2015 18:15:47</publishTime>
+    </File>
+    <File Include="images/demo/slider/1.jpg">
+      <publishTime>05/01/2015 17:53:41</publishTime>
+    </File>
+    <File Include="images/demo/slider/2.jpg">
+      <publishTime>05/03/2015 02:01:43</publishTime>
+    </File>
+    <File Include="images/demo/slider/3.png">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="images/demo/slider/4.png">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="images/demo/slider/5.png">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="images/demo/slider/index.html">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="images/demo/video.gif">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="images/demo/worldmap.png">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="images/footer.jpg">
+      <publishTime>05/01/2015 19:08:02</publishTime>
+    </File>
+    <File Include="images/header.jpg">
+      <publishTime>05/01/2015 19:08:02</publishTime>
+    </File>
+    <File Include="images/hi.jpg">
+      <publishTime>05/02/2015 19:25:39</publishTime>
+    </File>
+    <File Include="images/icon-facebook.jpg">
+      <publishTime>05/02/2015 19:25:39</publishTime>
+    </File>
+    <File Include="images/icon-twitter.jpg">
+      <publishTime>05/02/2015 19:25:39</publishTime>
+    </File>
+    <File Include="images/icon-vimeo.jpg">
+      <publishTime>05/02/2015 19:25:39</publishTime>
+    </File>
+    <File Include="images/input_left.png">
+      <publishTime>04/29/2015 02:02:18</publishTime>
+    </File>
+    <File Include="images/list-active.gif">
+      <publishTime>05/01/2015 19:28:37</publishTime>
+    </File>
+    <File Include="images/list-off-orange.gif">
+      <publishTime>05/01/2015 19:28:37</publishTime>
+    </File>
+    <File Include="images/list-on-orange.gif">
+      <publishTime>05/01/2015 19:28:37</publishTime>
+    </File>
+    <File Include="images/lo-bg.png">
+      <publishTime>04/30/2015 01:09:25</publishTime>
+    </File>
+    <File Include="images/logo.gif">
+      <publishTime>05/02/2015 19:25:39</publishTime>
+    </File>
+    <File Include="images/menu-home-selected.jpg">
+      <publishTime>05/02/2015 19:25:39</publishTime>
+    </File>
+    <File Include="images/menu-selected.jpg">
+      <publishTime>05/02/2015 19:25:39</publishTime>
+    </File>
+    <File Include="images/menu-separator.jpg">
+      <publishTime>05/02/2015 19:25:39</publishTime>
+    </File>
+    <File Include="images/menu.jpg">
+      <publishTime>05/01/2015 19:08:02</publishTime>
+    </File>
+    <File Include="images/preheader.jpg">
+      <publishTime>05/01/2015 19:08:02</publishTime>
+    </File>
+    <File Include="images/search.gif">
+      <publishTime>05/01/2015 19:28:37</publishTime>
+    </File>
+    <File Include="images/sprite.gif">
+      <publishTime>05/02/2015 19:25:40</publishTime>
+    </File>
+    <File Include="images/Thumbs.db">
+      <publishTime>04/30/2015 01:09:25</publishTime>
+    </File>
+    <File Include="images/timeicon.gif">
+      <publishTime>05/01/2015 19:08:02</publishTime>
+    </File>
+    <File Include="insertrecord1.aspx">
+      <publishTime>05/07/2015 18:40:45</publishTime>
+    </File>
+    <File Include="js/index.js">
+      <publishTime>04/29/2015 02:32:30</publishTime>
+    </File>
+    <File Include="layout/index.html">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="layout/scripts/index.html">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="layout/scripts/jquery.fitvids.min.js">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="layout/scripts/jquery.min.js">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="layout/scripts/jquery.mobilemenu.js">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="layout/scripts/nivo-lightbox/images/close%402x.png">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="layout/scripts/nivo-lightbox/images/close.png">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="layout/scripts/nivo-lightbox/images/index.html">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="layout/scripts/nivo-lightbox/images/loading%402x.gif">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="layout/scripts/nivo-lightbox/images/loading.gif">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="layout/scripts/nivo-lightbox/images/next%402x.png">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="layout/scripts/nivo-lightbox/images/next.png">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="layout/scripts/nivo-lightbox/images/prev%402x.png">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="layout/scripts/nivo-lightbox/images/prev.png">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="layout/scripts/nivo-lightbox/index.html">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="layout/scripts/nivo-lightbox/Nivo-Lightbox-master.zip">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="layout/scripts/nivo-lightbox/nivo-lightbox.min.css">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="layout/scripts/nivo-lightbox/nivo-lightbox.min.js">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="layout/scripts/tabslet/index.html">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="layout/scripts/tabslet/jquery.tabslet.min.js">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="layout/scripts/tabslet/Tabslet-master.zip">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="layout/styles/fontawesome-4.2.0.min.css">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="layout/styles/fonts/fontawesome-webfont.eot">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="layout/styles/fonts/fontawesome-webfont.svg">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="layout/styles/fonts/fontawesome-webfont.ttf">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="layout/styles/fonts/fontawesome-webfont.woff">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="layout/styles/fonts/FontAwesome.otf">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="layout/styles/fonts/index.html">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="layout/styles/framework.css">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="layout/styles/index.html">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="layout/styles/layout.css">
+      <publishTime>04/29/2015 01:14:22</publishTime>
+    </File>
+    <File Include="LoginForm.psd">
+      <publishTime>04/29/2015 02:00:16</publishTime>
+    </File>
+    <File Include="Main12.aspx">
+      <publishTime>05/08/2015 15:46:01</publishTime>
+    </File>
+    <File Include="minimalisticwebtemplate.psd">
+      <publishTime>05/02/2015 19:24:49</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>05/07/2015 16:30:06</publishTime>
+    </File>
+    <File Include="pages/basic-grid.html">
+      <publishTime>04/29/2015 01:15:58</publishTime>
+    </File>
+    <File Include="pages/full-width.html">
+      <publishTime>04/29/2015 01:15:58</publishTime>
+    </File>
+    <File Include="pages/gallery.html">
+      <publishTime>04/29/2015 01:15:58</publishTime>
+    </File>
+    <File Include="pages/index.html">
+      <publishTime>04/29/2015 01:15:58</publishTime>
+    </File>
+    <File Include="pages/portfolio.html">
+      <publishTime>04/29/2015 01:15:58</publishTime>
+    </File>
+    <File Include="pages/sidebar-left-2.html">
+      <publishTime>04/29/2015 01:15:58</publishTime>
+    </File>
+    <File Include="pages/sidebar-left.html">
+      <publishTime>04/29/2015 01:15:58</publishTime>
+    </File>
+    <File Include="pages/sidebar-right-2.html">
+      <publishTime>04/29/2015 01:15:58</publishTime>
+    </File>
+    <File Include="pages/sidebar-right.html">
+      <publishTime>04/29/2015 01:15:58</publishTime>
+    </File>
+    <File Include="Preview.jpg">
+      <publishTime>04/29/2015 02:00:30</publishTime>
+    </File>
+    <File Include="Readme.txt">
+      <publishTime>04/29/2015 02:00:30</publishTime>
+    </File>
+    <File Include="Result.aspx">
+      <publishTime>05/08/2015 15:46:07</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.6.4.js">
+      <publishTime>05/07/2015 04:13:03</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.6.4.min.js">
+      <publishTime>05/07/2015 04:13:03</publishTime>
+    </File>
+    <File Include="Scripts/jquery.signalR-2.2.0.js">
+      <publishTime>05/07/2015 04:13:04</publishTime>
+    </File>
+    <File Include="Scripts/jquery.signalR-2.2.0.min.js">
+      <publishTime>05/07/2015 04:13:04</publishTime>
+    </File>
+    <File Include="search.aspx">
+      <publishTime>05/03/2015 12:09:36</publishTime>
+    </File>
+    <File Include="StaffLogin.aspx">
+      <publishTime>05/03/2015 14:23:00</publishTime>
+    </File>
+    <File Include="style.css">
+      <publishTime>05/01/2015 19:30:02</publishTime>
+    </File>
+    <File Include="ViewAttendance.aspx">
+      <publishTime>05/09/2015 00:24:33</publishTime>
+    </File>
+    <File Include="Viewresult.aspx">
+      <publishTime>05/08/2015 23:23:38</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/12/2015 02:25:17</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="SchoolConnectionString-Web.config Connection String" description="SchoolConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=RAHUL-PC;Initial Catalog=School;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Rahul\\Desktop\\Book\\SchoolWebsite\\SchoolWebsite\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SchoolConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,76 @@
+C:\Users\Rahul\Desktop\Book\SchoolWebsite\SchoolWebsite\bin\SchoolWebsite.dll
+C:\Users\Rahul\Desktop\Book\SchoolWebsite\SchoolWebsite\bin\SchoolWebsite.pdb
+C:\Users\Rahul\Desktop\Book\SchoolWebsite\SchoolWebsite\obj\Debug\SchoolWebsite.dll
+C:\Users\Rahul\Desktop\Book\SchoolWebsite\SchoolWebsite\obj\Debug\SchoolWebsite.pdb
+C:\Users\Rahul\Desktop\Book\SchoolWebsite\SchoolWebsite\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Rahul\Desktop\Book\SchoolWebsite\SchoolWebsite\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Rahul\Desktop\Book\SchoolWebsite\SchoolWebsite\bin\Microsoft.Owin.dll
+C:\Users\Rahul\Desktop\Book\SchoolWebsite\SchoolWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rahul\Desktop\Book\SchoolWebsite\SchoolWebsite\bin\Microsoft.Owin.Security.dll
+C:\Users\Rahul\Desktop\Book\SchoolWebsite\SchoolWebsite\bin\Newtonsoft.Json.dll
+C:\Users\Rahul\Desktop\Book\SchoolWebsite\SchoolWebsite\bin\Owin.dll
+C:\Users\Rahul\Desktop\Book\SchoolWebsite\SchoolWebsite\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Rahul\Desktop\Book\SchoolWebsite\SchoolWebsite\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Rahul\Desktop\Book\SchoolWebsite\SchoolWebsite\bin\Microsoft.Owin.xml
+C:\Users\Rahul\Desktop\Book\SchoolWebsite\SchoolWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rahul\Desktop\Book\SchoolWebsite\SchoolWebsite\bin\Microsoft.Owin.Security.xml
+C:\Users\Rahul\Desktop\Book\SchoolWebsite\SchoolWebsite\bin\Newtonsoft.Json.xml
+C:\Users\Rahul\Desktop\Book\SchoolWebsite\SchoolWebsite\bin\AjaxControlToolkit.dll
+C:\Users\Rahul\Desktop\Book\SchoolWebsite\SchoolWebsite\obj\Debug\SchoolWebsite.csprojResolveAssemblyReference.cache
+H:\SchoolWebsite\SchoolWebsite\bin\SchoolWebsite.dll.config
+H:\SchoolWebsite\SchoolWebsite\bin\SchoolWebsite.dll
+H:\SchoolWebsite\SchoolWebsite\bin\SchoolWebsite.pdb
+H:\SchoolWebsite\SchoolWebsite\bin\Microsoft.AspNet.SignalR.Core.dll
+H:\SchoolWebsite\SchoolWebsite\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+H:\SchoolWebsite\SchoolWebsite\bin\Microsoft.Owin.dll
+H:\SchoolWebsite\SchoolWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\SchoolWebsite\SchoolWebsite\bin\Microsoft.Owin.Security.dll
+H:\SchoolWebsite\SchoolWebsite\bin\Newtonsoft.Json.dll
+H:\SchoolWebsite\SchoolWebsite\bin\Owin.dll
+H:\SchoolWebsite\SchoolWebsite\bin\Microsoft.AspNet.SignalR.Core.xml
+H:\SchoolWebsite\SchoolWebsite\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+H:\SchoolWebsite\SchoolWebsite\bin\Microsoft.Owin.xml
+H:\SchoolWebsite\SchoolWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\SchoolWebsite\SchoolWebsite\bin\Microsoft.Owin.Security.xml
+H:\SchoolWebsite\SchoolWebsite\bin\Newtonsoft.Json.xml
+H:\SchoolWebsite\SchoolWebsite\obj\Debug\SchoolWebsite.csprojResolveAssemblyReference.cache
+H:\SchoolWebsite\SchoolWebsite\obj\Debug\SchoolWebsite.dll
+H:\SchoolWebsite\SchoolWebsite\obj\Debug\SchoolWebsite.pdb
+D:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\SchoolWebsite.dll.config
+D:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\SchoolWebsite.dll
+D:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\SchoolWebsite.pdb
+D:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\Microsoft.Owin.dll
+D:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\Microsoft.Owin.Security.dll
+D:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\Newtonsoft.Json.dll
+D:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\Owin.dll
+D:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\Microsoft.Owin.xml
+D:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\Microsoft.Owin.Security.xml
+D:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\Newtonsoft.Json.xml
+D:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\obj\Debug\SchoolWebsite.csprojResolveAssemblyReference.cache
+D:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\obj\Debug\SchoolWebsite.dll
+D:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\obj\Debug\SchoolWebsite.pdb
+E:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\SchoolWebsite.dll.config
+E:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\SchoolWebsite.dll
+E:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\SchoolWebsite.pdb
+E:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\Microsoft.Owin.dll
+E:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\Microsoft.Owin.Security.dll
+E:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\Newtonsoft.Json.dll
+E:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\Owin.dll
+E:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\Microsoft.Owin.xml
+E:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\Microsoft.Owin.Security.xml
+E:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\bin\Newtonsoft.Json.xml
+E:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\obj\Debug\SchoolWebsite.csprojResolveAssemblyReference.cache
+E:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\obj\Debug\SchoolWebsite.dll
+E:\CAPSTONE PROJECT\SchoolWebsite\SchoolWebsite\obj\Debug\SchoolWebsite.pdb
