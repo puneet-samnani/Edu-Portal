@@ -1,4 +1,4 @@
-# RiskyDreamers
+# Edu-Portal
 Edu-Portal is an e-governance schools management system, designed to digitalize the existing schools. This platform brings all the schools together into one roof, facilitating the government to monitor and manage them.
 
 This is just a prototype with limited functionality. The developed application has the following end users:
